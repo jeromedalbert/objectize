@@ -10,6 +10,7 @@ Gem::Specification.new do |spec|
   spec.description =
     'Transforms hashes into objects. Check documentation at https://github.com/jeromedalbert/objectize.'
   spec.homepage = 'https://github.com/jeromedalbert/objectize'
+  spec.license = 'MIT'
   spec.required_ruby_version = '>= 3.0.0'
 
   spec.metadata['homepage_uri'] = spec.homepage
