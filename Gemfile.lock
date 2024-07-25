@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    objectize (0.1.0)
+    objectize (0.1.1)
       hashie
 
 GEM
